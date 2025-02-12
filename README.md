@@ -1,4 +1,4 @@
-# DSPM Homework 1 - Skand Vijay
+# Predictive Sales Performance Optimization for Netflix
 
 ## 📌 Project Overview
 This Jupyter Notebook is part of the **DSPM (Data Science & Product Management) coursework**, covering data analysis, visualization, and insights. It includes:
