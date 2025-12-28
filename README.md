@@ -6,7 +6,12 @@ This project explores **Netflix data** to extract meaningful insights into custo
 - Exploratory Data Analysis (EDA)
 - Customer segmentation & purchasing behavior
 - Price elasticity & marketing impact
-- Machine learning modeling (if applicable)
+- Machine learning modeling 
+
+- 
+## Architecture
+![Architecture](Nerflix.png)
+
 
 ## 📊 Analysis & Insights
 
